@@ -1,0 +1,266 @@
+.i-phone1415-pro-max7-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.i-phone1415-pro-max7i-phone1415-pro-max7 {
+  width: 100%;
+  height: 1174px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.i-phone1415-pro-max7-rectangle1 {
+  top: 31px;
+  left: 8px;
+  width: 414px;
+  height: 1137px;
+  position: absolute;
+  border-color: rgba(151, 121, 49, 1);
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 28px;
+}
+ 
+.i-phone1415-pro-max7-rectangle2 {
+  top: 29px;
+  left: 7px;
+  width: 416px;
+  height: 47px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro-max7-frame1 {
+  top: 172px;
+  left: 20px;
+  width: 391px;
+  height: 498px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 50px;
+  background-color: rgba(0, 0, 0, 0.0010000000474974513);
+}
+ 
+.i-phone1415-pro-max7-frame2 {
+  top: 86px;
+  left: 21px;
+  width: 391px;
+  height: 78px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 50px;
+  background-color: rgba(0, 0, 0, 0.0010000000474974513);
+}
+ 
+.i-phone1415-pro-max7-text10 {
+  top: 187px;
+  left: 34px;
+  color: rgba(209, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: AL-KANZ;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro-max7-text11 {
+  color: rgba(209, 0, 0, 1);
+}
+ 
+.i-phone1415-pro-max7-text15 {
+  top: 70px;
+  left: 37px;
+  color: rgba(0, 0, 0, 1);
+  width: 362px;
+  height: auto;
+  position: absolute;
+  font-size: 48px;
+  font-style: Regular;
+  text-align: center;
+  font-family: AL-KANZ;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro-max7-text16 {
+  top: 38px;
+  left: 36px;
+  color: rgba(255, 255, 255, 1);
+  width: 361px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: AL-KANZ;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro-max7-rectangle5 {
+  top: 708px;
+  left: 30px;
+  width: 370px;
+  height: 50px;
+  position: absolute;
+  border-radius: 45.5px;
+}
+ 
+.i-phone1415-pro-max7-rectangle6 {
+  top: 787px;
+  left: 30px;
+  width: 370px;
+  height: 50px;
+  position: absolute;
+  border-radius: 45.5px;
+}
+ 
+.i-phone1415-pro-max7-rectangle7 {
+  top: 866px;
+  left: 30px;
+  width: 370px;
+  height: 50px;
+  position: absolute;
+  border-radius: 45.5px;
+}
+ 
+.i-phone1415-pro-max7-rectangle8 {
+  top: 945px;
+  left: 30px;
+  width: 370px;
+  height: 50px;
+  position: absolute;
+  border-radius: 45.5px;
+}
+ 
+.i-phone1415-pro-max7-text17 {
+  top: 719px;
+  left: 123px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: AL-KANZ;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro-max7-text18 {
+  top: 795px;
+  left: 67px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: AL-KANZ;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro-max7-text19 {
+  top: 870px;
+  left: 133px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: AL-KANZ;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro-max7-text20 {
+  top: 950px;
+  left: 93px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: AL-KANZ;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.i-phone1415-pro-max7-rectangle3 {
+  top: 1094px;
+  left: 36px;
+  width: 175px;
+  height: 50px;
+  position: absolute;
+  border-radius: 45.5px;
+}
+ 
+.i-phone1415-pro-max7-rectangle4 {
+  top: 1094px;
+  left: 221px;
+  width: 175px;
+  height: 50px;
+  position: absolute;
+  border-radius: 45.5px;
+}
+ 
+.i-phone1415-pro-max7-arrowleft {
+  top: 1093px;
+  left: 97px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+ 
+.i-phone1415-pro-max7-text21 {
+  top: 1095px;
+  left: 266px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: center;
+  font-family: AL-KANZ;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
